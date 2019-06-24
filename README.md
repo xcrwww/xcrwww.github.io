@@ -143,7 +143,7 @@
 ## 软件类
 
 [amazing-apps](https://amazing-apps.gitbook.io/windows-apps-that-amaze-us/zh-cn) | Windows绝赞应用 
-[殆漂遥](https://www.laomoit.com/) | 破解软件分享
+[殁漂遥](https://www.laomoit.com/) | 破解软件分享
 [胡萝卜周](http://www.carrotchou.blog/) | 软件分享真正领跑者
 
 ------
